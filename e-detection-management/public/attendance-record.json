@@ -1,0 +1,56 @@
+{
+  "list": [{
+          "id": 1,
+          "name": "张三",
+          "age": "30",
+          "sex": "男",
+          "thumb": "https://lin-xin.gitee.io/images/post/wms.png",
+          "careerID": "350402198708173320",
+          "attendanceTime": "2020-03-08 11:24:30",
+          "todayTime": "3:42:50",
+          "totalTime": "13:42:50",
+          "equipAccount": "123321",
+          "equipPassword": "456654"
+      },
+      {
+          "id": 2,
+          "name": "李四",
+          "age": "30",
+          "sex": "男",
+          "thumb": "https://lin-xin.gitee.io/images/post/node3.png",
+          "careerID": "350402198708173320",
+          "attendanceTime": "2020-03-08 11:24:30",
+          "todayTime": "3:42:50",
+          "totalTime": "13:42:50",
+          "equipAccount": "123321",
+          "equipPassword": "456654"
+      },
+      {
+          "id": 3,
+          "name": "王五",
+          "age": "28",
+          "sex": "女",
+          "thumb": "https://lin-xin.gitee.io/images/post/parcel.png",
+          "careerID": "350402198708173320",
+          "attendanceTime": "2020-03-08 11:24:30",
+          "todayTime": "3:42:50",
+          "totalTime": "13:42:50",
+          "equipAccount": "123321",
+          "equipPassword": "456654"
+      },
+      {
+          "id": 4,
+          "name": "赵六",
+          "age": "30",
+          "sex": "男",
+          "thumb": "https://lin-xin.gitee.io/images/post/notice.png",
+          "careerID": "350402198708173320",
+          "attendanceTime": "2020-03-08 11:24:30",
+          "todayTime": "3:42:50",
+          "totalTime": "13:42:50",
+          "equipAccount": "123321",
+          "equipPassword": "456654"
+      }
+  ],
+  "pageTotal": 4
+}

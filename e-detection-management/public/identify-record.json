@@ -1,0 +1,52 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "张三",
+            "equipType": "立柱式",
+            "identifyType": "人脸识别",
+            "identifyTime": "2020-03-08 11:24:30",
+            "equipID": "EJC-102342",
+            "temp": "36.6",
+            "address": "广东省东莞市长安镇",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png",
+            "identifyID": "350402198708173320"
+        },
+        {
+            "id": 2,
+            "name": "李四",
+            "equipType": "立柱式",
+            "identifyType": "人脸识别",
+            "identifyTime": "2020-03-08 11:24:30",
+            "equipID": "EJC-102342",
+            "temp": "37.6",
+            "address": "广东省广州市白云区",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png",
+            "identifyID": "350402198708173320"
+        },
+        {
+            "id": 3,
+            "name": "王五",
+            "equipType": "圆柱式",
+            "identifyType": "人脸识别",
+            "identifyTime": "2020-03-08 11:24:30",
+            "equipID": "EJC-102342",
+            "temp": "36.6",
+            "address": "湖南省长沙市",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png",
+            "identifyID": "350402198708173320"
+        },
+        {
+            "id": 4,
+            "name": "赵六",
+            "equipType": "壁挂式",
+            "identifyType": "人脸识别",
+            "identifyTime": "2020-03-08 11:24:30",
+            "equipID": "EJC-102342",
+            "temp": "38.6",
+            "address": "福建省厦门市鼓浪屿",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png",
+            "identifyID": "350402198708173320"
+        }
+    ],
+    "pageTotal": 4
+}
